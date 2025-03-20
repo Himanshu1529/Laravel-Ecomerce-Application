@@ -60,7 +60,9 @@ php artisan serve
 Your application will be available at **http://127.0.0.1:8000** 🚀
 
 ## 📸 Screenshots
-_Add screenshots of your e-commerce application here_
+![App Screenshot](https://github.com/Himanshu1529/Laravel-Ecomerce-Application/blob/main/Screenshot%202025-03-20%20134701.png)
+![App Screenshot](https://github.com/Himanshu1529/Laravel-Ecomerce-Application/blob/main/Screenshot%202025-03-20%20134708.png)
+
 
 ## 📜 License
 This project is licensed under the **MIT License**.
