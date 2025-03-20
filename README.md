@@ -26,7 +26,7 @@ This is a fully functional **E-Commerce Application** built using **Laravel & My
 ### 1️⃣ Clone the Repository
 ```bash
 https://github.com/Himanshu1529/Laravel-Ecomerce-Application.git
- cd your-repository
+ cd ecommmerce
 ```
 
 ### 2️⃣ Install Dependencies
