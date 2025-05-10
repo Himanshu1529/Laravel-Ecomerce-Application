@@ -75,6 +75,7 @@ For any queries, feel free to reach out:
 - **Developer:** Himanshu Sharma
 - **Email:** himanshu291003.com
 - **GitHub:** [Himanshu Sharma](https://github.com/himanshu1529)
+- **Website:** [https://himanshusharma.com](https://himanshusharma01.vercel.app/)
 
 Happy Coding! 🎉
 
